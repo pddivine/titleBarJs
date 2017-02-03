@@ -1,0 +1,10 @@
+html, body {
+  color: blue;
+  margin: 0px;
+  padding: 0px;
+}
+
+.titlebarContent {
+  background-color: green;
+  margin: 0px;
+}
