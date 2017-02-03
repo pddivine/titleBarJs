@@ -3,7 +3,8 @@ A JavaScript library to create header and footer sections that display after the
 
 # API
 ### *titlebarJs*.startTypist(*[options]*);
-* Optional. The speed in milliseconds that each letter is typed or erased.
+* options
+  * Optional. An object to override library defaults.
 
  | Property        | Type | Description           | Default  |
 | ------------- |-------------:|-------------:| -----:|
